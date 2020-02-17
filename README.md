@@ -1,5 +1,6 @@
 # kothalakshmishirisha_Cleancode
 This is a java project for both calculating simple and compound interest and estimating house cost.
+
 First compile the interest.java using the below command in command prompt.
 *javac -d . interest.java*
   to create a package and store class file in it.
